@@ -19,6 +19,7 @@ config/version="0.0.1b"
 run/main_scene="res://main.tscn"
 config/features=PackedStringArray("4.3", "Mobile")
 config/icon="res://icon.jpg"
+config/git_sha="704f8fb236c3e2f8d9484752821e7fd86611f672"
 
 [autoload]
 
