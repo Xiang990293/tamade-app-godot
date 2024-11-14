@@ -51,6 +51,7 @@ func _on_score_score_updated_send_back(text) -> void:
 		linear_velocity=Vector2(0.0,0.0)
 		pick_random_coordinate()
 		emit_signal("change_size")
+		
 	elif(phase == 2):
 		if (score-60)%10 == 1:
 			linear_velocity = 10*(score-60)*pick_random_direction()

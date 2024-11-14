@@ -18,8 +18,7 @@ config/description="這是一個 他媽的 遊戲，由臉書上的 一個他媽
 config/version="0.0.1b"
 run/main_scene="res://main.tscn"
 config/features=PackedStringArray("4.3", "Mobile")
-config/icon="res://icon.jpg"
-config/git_sha="bcccf5323fa84ce91b0bb4ad1ba4d24aa5c7dc42"
+config/icon="res://assets/icon.jpg"
 
 [autoload]
 
