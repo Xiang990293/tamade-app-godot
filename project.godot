@@ -16,9 +16,10 @@ config/name_localized={
 }
 config/description="這是一個 他媽的 遊戲，由臉書上的 一個他媽的社團 中的管理員們親自製作，內容與機制很他媽的，絕對讓你在遊玩過程中他媽的不絕口"
 config/version="0.0.1b"
-run/main_scene="res://main.tscn"
+run/main_scene="res://scene/main.tscn"
 config/features=PackedStringArray("4.3", "Mobile")
 config/icon="res://assets/icon.jpg"
+config/git_sha="20d2fd0aa4c8a29437686c632b3677347d73dafe"
 
 [autoload]
 
